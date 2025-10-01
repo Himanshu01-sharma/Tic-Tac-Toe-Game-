@@ -50,3 +50,34 @@ body{
     box-shadow: 0 0 1rem white;
    
 }
+
+#new-btn {
+    padding: 1rem;
+    font-size: 1.5rem;
+     background-color:black;
+    color:white;
+    border-radius: 1rem;
+    box-shadow: 0 0 1rem white;
+}
+
+#msg{
+    color: #ffffc7;
+    font-size: 2rem;
+
+}
+
+.msg-container{
+    height: 100vmin;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 4rem;
+}
+.hide{
+    display: none;
+} 
+
+
+
+
